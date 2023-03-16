@@ -3,10 +3,9 @@ The project is hosted here : https://dashing-cannoli-37c833.netlify.app/
 ## Summary
 This project is a web application for a blood donation organization that allows donors to register and schedule appointments for blood donations, and for administrators to manage and view the donations.
 ## Technologies used
-React.js
-HTML/CSS
-JavaScript
-Bootstrap
+React.js,
+HTML/CSS,
+JavaScript, 
 Axios
 
 ## Screenshots Home Desktop View 
@@ -22,5 +21,11 @@ Axios
 ## Other Screenshots
 ![Screenshot (16)](https://user-images.githubusercontent.com/53811309/225428392-8bbab740-aae9-4c7a-a2de-54d8c784df79.png)
 
+## Some Features are
 
+###Register as a Donor: 
+Users should be able to create a profile and register themselves as blood donors by providing personal information such as name,blood group, contact details, and location.
+
+###Search for Blood: 
+Users should be able to search for blood donors by location, blood group. The search results should display a list of potential donors along with their contact information.
 
